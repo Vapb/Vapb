@@ -3,17 +3,22 @@
 
 ## 🧑‍💻 Quem sou eu
 
-Tech Lead e Engenheiro de Dados na FCx Labs (grupo Ferreira Costa), com MBA em Engenharia de Dados. Já passei por dados de precificação, logística/frete, threat intelligence e pesquisa econômica — sempre no cruzamento entre dados, backend e liderança técnica. Baseado no Rio de Janeiro.
+Engenheiro de dados apaixonado por algoritmos e por filmes e histórias de terror 🎬🔪. Tech Lead e Engenheiro de Dados na FCx Labs (grupo Ferreira Costa), com MBA em Engenharia de Dados. Baseado no Rio de Janeiro.
+
+Minhas maiores forças são **Engenharia de Dados** e **Liderança técnica de equipes** — já levei um projeto de dev solo a um time de 6 pessoas, respondendo pela arquitetura, pelas decisões técnicas e pela entrega ponta a ponta.
 
 ## 🔭 No que estou trabalhando atualmente
 
-- 🏗️ Liderando a plataforma de precificação da Ferreira Costa: data warehouse em SQLMesh (~174M itens de venda, 5 anos de histórico) no BigQuery, pipelines de ingestão em Dagster e API de precificação em FastAPI
-- 🔄 Migrando o data warehouse para Databricks, consolidando duas plataformas em um lakehouse único
-- 📈 Ampliando o warehouse com novos modelos para destravar novas frentes, como smart allocation
+- 🏗️ Data warehouses e modelagem de dados em escala
+- ⚙️ Pipelines de dados (ETL) e orquestração
+- 🧩 Problemas de otimização de dados e engenharia de software
+- 🚀 Arquitetura de sistemas de dados de ponta a ponta
 
 ## 🎯 Principais competências
 
-- Azure Databricks
+- AWS, GCP, BigQuery
+- Postgres, AWS RDS
+- Data Pipelines & ETL
 - Gestão de incidentes
 - Liderança de equipe
 
@@ -25,6 +30,8 @@ Tech Lead e Engenheiro de Dados na FCx Labs (grupo Ferreira Costa), com MBA em E
 
 ## 📜 Certifications
 
+- [AWS AI Practitioner](https://www.credly.com/badges/396b3f69-b850-46b6-b23e-4e610a17f28f/linked_in_profile) — Issued Feb 2025 · Expires Feb 2028
+- [Data Science Professional Certificate](https://www.credly.com/badges/9ccb2b07-4609-4486-a187-7364f9d665d6) — Issued Apr 2020
 - Dagster Essentials
 - Deploy no Kubernetes
 - SQL (Basic)
@@ -41,12 +48,6 @@ Tech Lead e Engenheiro de Dados na FCx Labs (grupo Ferreira Costa), com MBA em E
 ## ⚡ Fun fact
 
 Uma das minhas certificações de estatística se chama literalmente **"Probability and Statistics: To p or not to p?"** — um trocadilho com p-value que resume bem meu amor por dados 😄
-
-## 📌 Projetos em destaque
-
-- **[extrato-pipeline](https://github.com/Vapb/extrato-pipeline)** — pipeline de dados em Python
-- **[extrato-dags](https://github.com/Vapb/extrato-dags)** — DAGs de orquestração
-- **[extrato-dash](https://github.com/Vapb/extrato-dash)** — dashboard para visualização dos dados processados
 
 ## 📊 GitHub Stats
 
