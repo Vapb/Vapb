@@ -30,9 +30,12 @@ Minhas maiores forças são **Engenharia de Dados** e **Liderança técnica de e
 ## 📜 Certifications
 
 - [AWS AI Practitioner](https://www.credly.com/badges/396b3f69-b850-46b6-b23e-4e610a17f28f/linked_in_profile) — Issued Feb 2025 · Expires Feb 2028
+- [Data Science Professional Certificate](https://www.credly.com/badges/9ccb2b07-4609-4486-a187-7364f9d665d6) — Issued Apr 2020
+
+## 🎖️ Badges
+
 - [AWS Knowledge: Advanced PostgreSQL for Amazon Aurora and Amazon RDS](https://www.credly.com/earner/earned/badge/d543e9b0-8381-491a-a4d3-665c0521bbd7)
 - [AWS Knowledge: AI Basics](https://www.credly.com/earner/earned/badge/c5ac391c-7e09-47da-9b3a-3cdf96c963fe)
-- [Data Science Professional Certificate](https://www.credly.com/badges/9ccb2b07-4609-4486-a187-7364f9d665d6) — Issued Apr 2020
 
 ## 💻 Tech Stack
 
