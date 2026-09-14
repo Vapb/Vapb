@@ -5,7 +5,7 @@
 
 Engenheiro de dados apaixonado por algoritmos. Tech Lead e Engenheiro de Dados na FCx Labs (grupo Ferreira Costa), com especialização em Ciência de Dados e MBA em Engenharia de Dados. Baseado no Rio de Janeiro.
 
-Minhas maiores forças são **Engenharia de Dados** e **Liderança técnica de equipes** — acompanhei um projeto crescer de um dev solo para um time de 6 pessoas, ajudando a conduzir arquitetura, decisões técnicas e entregas.
+Minhas maiores forças são **Engenharia de Dados** e **Liderança técnica de equipes** — gosto de conduzir arquitetura, decisões técnicas e entregas ponta a ponta.
 
 ## 🔭 No que estou trabalhando atualmente
 
