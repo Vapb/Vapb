@@ -61,7 +61,3 @@ Minhas maiores forças são **Engenharia de Dados** e **Liderança técnica de e
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-[![](https://komarev.com/ghpvc/?username=Vapb&icon=0&color=0e75b6)](https://visitcount.itsvg.in)
