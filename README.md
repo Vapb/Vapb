@@ -43,13 +43,10 @@ Minhas maiores forças são **Engenharia de Dados** e **Liderança técnica de e
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=Vapb&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Vapb&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Vapb&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Vapb&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=Vapb&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="49%" alt="Estatísticas do GitHub" />
+  <img src="https://streak-stats.demolab.com/?user=Vapb&theme=dark&hide_border=false" width="49%" alt="Streak de contribuições" />
+</p>
 
 ### ✍️ Random Dev Quote
 
@@ -57,4 +54,4 @@ Minhas maiores forças são **Engenharia de Dados** e **Liderança técnica de e
 
 ---
 
-[![](https://komarev.com/ghpvc/?username=Vapb&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=Vapb&icon=0&color=0e75b6)](https://visitcount.itsvg.in)
