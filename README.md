@@ -5,7 +5,7 @@
 
 Engenheiro de dados apaixonado por algoritmos. Tech Lead e Engenheiro de Dados na FCx Labs (grupo Ferreira Costa), com especialização em Ciência de Dados e MBA em Engenharia de Dados. Baseado no Rio de Janeiro.
 
-Minhas maiores forças são **Engenharia de Dados** e **Liderança técnica de equipes** — gosto de conduzir arquitetura, decisões técnicas e entregas ponta a ponta.
+Minhas maiores forças são **Engenharia de Dados** e **Liderança técnica de equipes** — respondendo pela arquitetura, pelas decisões técnicas e pela entrega ponta a ponta.
 
 ## 🔭 No que estou trabalhando atualmente
 
@@ -40,10 +40,6 @@ Minhas maiores forças são **Engenharia de Dados** e **Liderança técnica de e
 ## 📬 Como me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-burgardt-38bb00194/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vapb7123@gmail.com)
-
-## ⚡ Fun fact
-
-🎬🔪 Sou fã de filmes e histórias de terror — quanto mais assustador, melhor.
 
 ## 📊 GitHub Stats
 
