@@ -30,7 +30,8 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # PAT do dono do perfil: o GITHUB_TOKEN não enxerga contribuições privadas
+          GITHUB_TOKEN: ${{ secrets.SNAKE_TOKEN || secrets.GITHUB_TOKEN }}
 
       - name: Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v4
