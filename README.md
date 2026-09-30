@@ -34,6 +34,12 @@ Minhas maiores forças são **Engenharia de Dados** e **Liderança técnica de e
 
 ## 🎖️ Badges
 
+- [Databricks: Databricks Fundamentals](https://credentials.databricks.com/dad9cce7-1b1b-4e33-aaa1-f0106363eeec#acc.UY0VD3Qa)
+- [Google Cloud: Create a Secure Data Lake on Cloud Storage](https://www.credly.com/earner/earned/badge/d996147f-d1fa-4fb2-924f-a292c4331611)
+- [Google Cloud: Perform Predictive Data Analysis in BigQuery](https://www.credly.com/earner/earned/badge/1ca6e74f-741e-406d-9864-6b4659da020d)
+- [Google Cloud: Derive Insights from BigQuery Data](https://www.credly.com/earner/earned/badge/f48918c6-13a7-4766-9a59-6f1c769f3ed5)
+- [Google Cloud: Create and Manage Cloud SQL for PostgreSQL Instances](https://www.credly.com/badges/a060071e-f50e-414d-b318-0554512ec90f)
+- [Google Cloud: Migrate MySQL data to Cloud SQL](https://www.credly.com/earner/earned/badge/ba07cbe0-e99f-4a8f-986e-dd3807366bab)
 - [AWS Knowledge: Advanced PostgreSQL for Amazon Aurora and Amazon RDS](https://www.credly.com/earner/earned/badge/d543e9b0-8381-491a-a4d3-665c0521bbd7)
 - [AWS Knowledge: AI Basics](https://www.credly.com/earner/earned/badge/c5ac391c-7e09-47da-9b3a-3cdf96c963fe)
 
